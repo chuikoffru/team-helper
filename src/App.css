@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 0.5rem;
+}
+
+.card p {
+  font-size: 1.3rem;
+}
+
+.card code {
+  background-color: black;
+  color: aliceblue;
+}
